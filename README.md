@@ -4,6 +4,6 @@ Here are some projects I've done and engaged myself in throughout my academic jo
 
 ### Java:
 
-- [Gitlet](https://github.com/ajb283/Gitlet/blob/main/README.md)
+- [Gitlet](https://github.com/ajb283/Gitlet)
 - [Attaxx](https://github.com/ajb283/Attaxx)
 - [Blocks](https://github.com/ajb283/Blocks)
